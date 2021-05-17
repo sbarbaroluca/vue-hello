@@ -3,7 +3,7 @@
 
 var app = new Vue(
   {
-    el: "#root",
+    el: '#root',
     data: {
       message: 'Hello World !',
       classColor: 'red',
